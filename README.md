@@ -1,6 +1,6 @@
 注意事项：
 
-1.若不懂怎么安装，直接让workbuddy，豆包，dsh等agent自己安装，打出“/cn-ib-word-format”可见调用，或者直接告诉agent用“cn-ib-word-format”这个技能。
+1.若不懂怎么安装，将仓库链接发给workbuddy，豆包，dsh等agent，让其安装。安装完毕后打出“/cn-ib-word-format”可见调用，或者直接告诉agent用“cn-ib-word-format”这个技能。
 
 2.模型建议使用deepseek最新的flash模型（如deepseek-flash-4.1），当只思考不出文件的时候，很可能是文件过长导致思考占用上下文过多，故思考档位建议调到中档或低档，
 
